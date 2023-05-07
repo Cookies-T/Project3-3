@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+/* HTML and Body Styles */
+
+body {
+	font-family: "Trirong", serif;
+    font-size: 22px;
+    background-color: ghostwhite;
+}
+
+/* List Styles */
+
+ul.navbar {
+    list-style-type: none;
+    color: white;
+}
+
+.nav-item:hover {
+  color: hotpink;
+}
+
+/* Footer Styles */
+
+footer {
+    background-color: dodgerblue;
+    color: black;
+    clear: left;
+    height: 12em;
+    line-height: 2em;
+    font-size: 20px;
+}
+
+footer a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer a:hover, a:active {color: magenta;}
