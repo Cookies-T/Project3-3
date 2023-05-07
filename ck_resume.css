@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* Style the links */
+
+.email a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.email a:hover, a:active {color: chartreuse;}
+
+.phone a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.phone a:hover, a:active {color: hotpink;}
